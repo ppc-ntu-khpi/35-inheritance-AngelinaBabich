@@ -5,5 +5,5 @@
 
 ![](https://github.com/ppc-ntu-khpi/35-inheritance-AngelinaBabich/blob/master/images/11.png)
 
-##Діаграма##
+## Діаграма ##
 ![](https://github.com/ppc-ntu-khpi/35-inheritance-AngelinaBabich/blob/master/images/Animal.png)
