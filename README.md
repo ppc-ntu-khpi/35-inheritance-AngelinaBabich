@@ -3,7 +3,8 @@
 
 Для прикладу я змоделювала **Морську свинку**😉
 
-<img src=https://github.com//ppc-ntu-khpi/35-inheritance-AngelinaBabich/blob/master/images/morskaya-svinka-1.jpg." width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/11.png" width="100%"/>
+
 
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
 
