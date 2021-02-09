@@ -3,7 +3,7 @@
 
 Для прикладу я змоделювала **Морську свинку**😉
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/morskaya-svinka-1.jpg.crdownload" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
