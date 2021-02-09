@@ -6,7 +6,7 @@
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/11.png" width="100%"/>
 
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
+![](https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png)
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
